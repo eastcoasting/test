@@ -1,0 +1,131 @@
+ID,NAME,Class,2005,2010,2015,2020
+151,Agri-Industrial Crops,crop,0,873.942287,1216.759308,1285.564234
+151,Agri-Industrial Crops,grass,693.642755,152.91,0,0
+151,Agri-Industrial Crops,native forest,274.576355,274.57635,274.57635,274.576356
+151,Agri-Industrial Crops,scrub,8264.601887,7931.457945,7745.260091,7679.97505
+47,Asia World,crop,10.35,33.710973,668.612736,668.612736
+47,Asia World,grass,0,958.38928,2012.665568,2012.665568
+47,Asia World,native forest,1527.624191,1527.624188,1976.12435,1976.12435
+47,Asia World,scrub,12332.09648,11330.8922,9161.694595,8973.732872
+47,Asia World,urban,0,19.588131,51.9533,51.9533
+47,Asia World,water,0,0,0,188.057526
+274,Binh Phuoc Kratie Rubber 1,crop,35.743311,35.743312,517.050614,1551.889652
+274,Binh Phuoc Kratie Rubber 1,grass,0,51.822451,605.454629,67.389253
+274,Binh Phuoc Kratie Rubber 1,native forest,5270.696774,5270.696789,844.301365,334.513131
+274,Binh Phuoc Kratie Rubber 1,plantation,0,0,2960.275519,3376.961143
+274,Binh Phuoc Kratie Rubber 1,scrub,129.560642,77.73819,510.325184,106.808928
+303,China Dynamic Investment,crop,163.750124,38.097979,109.16456,1387.748051
+303,China Dynamic Investment,grass,900.351908,1056.861905,1313.910124,195.850908
+303,China Dynamic Investment,native forest,299.149663,299.149668,304.009662,304.009662
+303,China Dynamic Investment,plantation,0,0,0,59.083141
+303,China Dynamic Investment,scrub,7242.767917,7211.942458,6881.070209,6665.66445
+303,China Dynamic Investment,water,72.74414,72.744141,72.74414,72.74414
+90,Dau Tu Saigon-Binhphuoc (SBK),crop,0,218.725365,446.79883,852.50177
+90,Dau Tu Saigon-Binhphuoc (SBK),grass,0,30.957454,0,0
+90,Dau Tu Saigon-Binhphuoc (SBK),native forest,847.731077,847.731083,1029.095563,1029.095563
+90,Dau Tu Saigon-Binhphuoc (SBK),plantation,0,1198.521508,2700.678146,3086.596378
+90,Dau Tu Saigon-Binhphuoc (SBK),scrub,8879.237421,7437.329011,5572.142465,4784.162455
+287,Dong Nai,crop,0,0,25.633538,31.864303
+287,Dong Nai,grass,0,18.000305,0,6.30E-05
+287,Dong Nai,native forest,7184.456918,5284.3346,327.69012,324.647094
+287,Dong Nai,plantation,0,2095.135155,7087.585124,7087.585125
+287,Dong Nai,scrub,534.33195,321.318857,259.748333,256.560531
+287,Dong Nai,urban,0,0,18.13176,18.13176
+286,Dong Phu,crop,5.625329,5.625329,475.195794,480.941119
+286,Dong Phu,grass,0,129.796247,0,0
+286,Dong Phu,native forest,5894.058847,4417.984944,1403.768295,1399.896691
+286,Dong Phu,plantation,0,1398.701775,4174.406018,4176.221909
+286,Dong Phu,scrub,2201.619686,2149.195554,1976.31326,1972.623651
+286,Dong Phu,urban,0,0,73.185257,73.185257
+12,Grand Land Agricultural Development  (Cambodia),crop,0,0,82.574498,82.574498
+12,Grand Land Agricultural Development  (Cambodia),grass,0,801.21808,841.406884,582.311143
+12,Grand Land Agricultural Development  (Cambodia),native forest,582.704165,582.646593,449.842214,833.613
+12,Grand Land Agricultural Development  (Cambodia),plantation,0,444.617444,818.416931,788.17539
+12,Grand Land Agricultural Development  (Cambodia),scrub,8395.332895,7150.302645,6790.050159,5065.190618
+12,Grand Land Agricultural Development  (Cambodia),urban,0,0,0,57.897343
+12,Grand Land Agricultural Development  (Cambodia),water,0,0,0.702179,1578.695502
+32,Great Wonder Agricultural Development (Cambodia),crop,0,85.568299,111.311397,323.393015
+32,Great Wonder Agricultural Development (Cambodia),native forest,172.149461,172.149461,192.489461,192.386056
+32,Great Wonder Agricultural Development (Cambodia),plantation,0,0,221.448911,884.797451
+32,Great Wonder Agricultural Development (Cambodia),scrub,9383.725612,9298.157319,9030.625289,8155.29852
+48,Green Island,crop,250.993851,250.993851,273.616149,278.690729
+48,Green Island,grass,125.988474,125.988475,193.349096,924.148594
+48,Green Island,native forest,57.69,57.69,91.53,91.53
+48,Green Island,plantation,0,735.874078,735.874078,0
+48,Green Island,scrub,14366.19719,13630.56331,13506.84524,13506.84524
+310,Hoang Anh Andong Meas,crop,1.112307,0,1.112307,1.999944
+310,Hoang Anh Andong Meas,grass,0,56.385678,196.501523,1211.424089
+310,Hoang Anh Andong Meas,native forest,635.321992,636.434295,646.634504,646.634509
+310,Hoang Anh Andong Meas,plantation,0,4.017126,6102.366879,7022.764011
+310,Hoang Anh Andong Meas,scrub,8409.719843,8349.317049,2099.538859,126.858486
+310,Hoang Anh Andong Meas,water,0,0,0,36.47306
+308,Hoang Anh Lumphat,crop,0,0,33.345166,38.164653
+308,Hoang Anh Lumphat,native forest,182.44319,182.443194,182.443194,215.470862
+308,Hoang Anh Lumphat,plantation,0,0,10336.92136,10205.07307
+308,Hoang Anh Lumphat,scrub,10421.85077,10421.85076,18.263958,13.411796
+308,Hoang Anh Lumphat,urban,0,0,33.35294,33.35294
+308,Hoang Anh Lumphat,water,0,0,0,98.820621
+152,Megastar Investment & Forestry Development,crop,0,152.071459,1350.066312,1656.048417
+152,Megastar Investment & Forestry Development,grass,450.205593,304.942773,305.982117,0
+152,Megastar Investment & Forestry Development,native forest,324.857196,324.857194,422.421982,422.421982
+152,Megastar Investment & Forestry Development,scrub,8291.392927,8284.605166,6988.780127,6988.780066
+133,Mohypa Masu Orn Kampuchea,crop,43.029198,43.029198,5566.941726,5748.680285
+133,Mohypa Masu Orn Kampuchea,grass,1.321882,22.514003,43.521331,1272.524762
+133,Mohypa Masu Orn Kampuchea,native forest,870.205806,870.205822,872.72582,872.725822
+133,Mohypa Masu Orn Kampuchea,scrub,7649.336456,7628.144411,2083.705873,674.229279
+158,Mondulagri Resources,grass,0,99.951865,99.951865,99.951865
+158,Mondulagri Resources,scrub,9706.0098,9606.057986,9606.057986,9606.057986
+199,Pacific Grand Joint-Stock,crop,0,0,157.722646,1397.08388
+199,Pacific Grand Joint-Stock,grass,0,0,0,447.326511
+199,Pacific Grand Joint-Stock,native forest,3751.596707,3751.781906,3165.3529,2019.804356
+199,Pacific Grand Joint-Stock,plantation,0,0,2776.276502,2967.273787
+199,Pacific Grand Joint-Stock,scrub,6948.875,6947.495969,4612.414677,3895.403757
+197,Pacific Lotus Joint-Stock,crop,0,0,100.394096,97.193108
+197,Pacific Lotus Joint-Stock,grass,0,0,243.864783,243.864788
+197,Pacific Lotus Joint-Stock,native forest,4822.684579,4822.684618,3241.938911,3148.220321
+197,Pacific Lotus Joint-Stock,plantation,0,6.80E-05,3249.270516,3331.358062
+197,Pacific Lotus Joint-Stock,scrub,6741.269065,6742.271633,4734.885141,4474.015619
+197,Pacific Lotus Joint-Stock,water,0,0,0,281.284399
+198,Pacific Pearl Joint-Stock,crop,0,0,0,1.230683
+198,Pacific Pearl Joint-Stock,grass,0,0,565.44243,566.009366
+198,Pacific Pearl Joint-Stock,native forest,4758.932348,4758.932348,2968.758199,3163.937407
+198,Pacific Pearl Joint-Stock,plantation,0,0,2996.239293,3079.31625
+198,Pacific Pearl Joint-Stock,scrub,6460.374559,6460.319651,4741.092071,4421.657399
+198,Pacific Pearl Joint-Stock,water,0,0,0,0.713546
+200,Pacific Pride Joint-Stock,crop,0,0,0,279.982021
+200,Pacific Pride Joint-Stock,grass,0,0,0,385.087621
+200,Pacific Pride Joint-Stock,native forest,6001.863412,6001.799558,2354.267317,2164.155584
+200,Pacific Pride Joint-Stock,plantation,0,0,5479.271773,5261.689156
+200,Pacific Pride Joint-Stock,scrub,4887.449753,4887.443879,3328.43542,2814.547727
+155,PDA (Cambodia),crop,0,0,1214.679438,3197.577677
+155,PDA (Cambodia),native forest,700.290308,700.290301,838.126802,777.766106
+155,PDA (Cambodia),plantation,0,71.981829,71.981829,71.981829
+155,PDA (Cambodia),scrub,6282.926031,6212.641831,4869.229293,2948.853261
+123,Phu Rieng - Kratie,crop,0,65.617501,252.283396,1127.81263
+123,Phu Rieng - Kratie,grass,0,70.034429,0,0
+123,Phu Rieng - Kratie,native forest,234.019407,218.69208,373.550277,398.104542
+123,Phu Rieng - Kratie,plantation,0,0,0,19.188651
+123,Phu Rieng - Kratie,plantation,0,5842.496461,7391.933745,7480.559409
+123,Phu Rieng - Kratie,scrub,9698.437409,3742.756173,1932.35886,926.529368
+5,Sal Sophea Peanich,crop,125.213281,510.984276,477.137738,477.137739
+5,Sal Sophea Peanich,grass,0,597.617176,211.419902,211.419902
+5,Sal Sophea Peanich,native forest,8424.943018,5739.23164,2963.775218,2963.775218
+5,Sal Sophea Peanich,plantation,0,1655.512083,4722.968075,4722.968076
+5,Sal Sophea Peanich,scrub,13.686699,28.4109,173.215045,173.215045
+5,Sal Sophea Peanich,urban,0,31.123504,31.123504,31.123504
+5,Sal Sophea Peanich,water,106.039455,106.039455,106.039455,106.039455
+16,Sopheak Nika,crop,285.150137,690.23902,717.078476,675.013293
+16,Sopheak Nika,grass,0,925.304666,1066.719912,1057.881117
+16,Sopheak Nika,native forest,6469.020675,4241.578348,1261.900786,1444.559033
+16,Sopheak Nika,plantation,0,1909.116895,4692.458848,4427.655354
+16,Sopheak Nika,scrub,4045.649666,3038.045771,3051.271711,2862.607491
+16,Sopheak Nika,urban,0,5.125152,5.125152,5.125152
+16,Sopheak Nika,water,24.481095,24.481095,49.158916,382.891553
+91,Tong Ming Group,crop,0,764.803474,1594.735019,2432.673022
+91,Tong Ming Group,grass,316.828286,94.521496,820.782711,4.137803
+91,Tong Ming Group,native forest,218.583168,218.583154,206.512683,206.512683
+91,Tong Ming Group,scrub,7822.728991,7278.469911,5738.735964,5717.691831
+91,Tong Ming Group,urban,0,1.863231,7.865441,7.865441
+157,Unigreen Resources,grass,0,0,1179.316689,1528.444229
+157,Unigreen Resources,native forest,3189.956112,3189.95611,3080.294939,3080.294972
+157,Unigreen Resources,scrub,8527.239919,8527.239861,7457.584341,7108.456827
