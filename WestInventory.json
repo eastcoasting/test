@@ -1,0 +1,92 @@
+[
+  {
+    "Time": "2015-2019",
+    "Spruce-Fir Inventory": "16,725,269.66",
+    "Hardwood Inventory": "51,332,147.31",
+    "Other Softwood Inventory": "9,448,899.39",
+    "Pine Inventory": "10,510,502.05",
+    "Cedar Inventory": "1,536,558.56",
+    "Aspen Inventory": "3,903,436.72"
+  },
+  {
+    "Time": "2020-2024",
+    "Spruce-Fir Inventory": "15,194,729.23",
+    "Hardwood Inventory": "48,624,511.25",
+    "Other Softwood Inventory": "9,423,469.13",
+    "Pine Inventory": "11,171,554.31",
+    "Cedar Inventory": "1,407,848.98",
+    "Aspen Inventory": "4,113,098.49"
+  },
+  {
+    "Time": "2025-2029",
+    "Spruce-Fir Inventory": "14,896,285.64",
+    "Hardwood Inventory": "46,450,884.83",
+    "Other Softwood Inventory": "9,320,216.84",
+    "Pine Inventory": "11,694,375.09",
+    "Cedar Inventory": "1,454,090.35",
+    "Aspen Inventory": "3,714,479.74"
+  },
+  {
+    "Time": "2030-2034",
+    "Spruce-Fir Inventory": "16,232,241.49",
+    "Hardwood Inventory": "45,001,447.53",
+    "Other Softwood Inventory": "8,470,496.07",
+    "Pine Inventory": "12,009,293.86",
+    "Cedar Inventory": "1,474,133.94",
+    "Aspen Inventory": "4,033,030.91"
+  },
+  {
+    "Time": "2035-2039",
+    "Spruce-Fir Inventory": "17,491,576.66",
+    "Hardwood Inventory": "44,084,484.37",
+    "Other Softwood Inventory": "8,100,907.51",
+    "Pine Inventory": "11,743,164.78",
+    "Cedar Inventory": "1,535,478.39",
+    "Aspen Inventory": "4,033,742.82"
+  },
+  {
+    "Time": "2040-2044",
+    "Spruce-Fir Inventory": "17,718,969.51",
+    "Hardwood Inventory": "42,164,749.36",
+    "Other Softwood Inventory": "6,982,894.74",
+    "Pine Inventory": "11,628,160.90",
+    "Cedar Inventory": "1,515,192.27",
+    "Aspen Inventory": "4,333,170.47"
+  },
+  {
+    "Time": "2045-2049",
+    "Spruce-Fir Inventory": "17,449,794.59",
+    "Hardwood Inventory": "42,569,892.12",
+    "Other Softwood Inventory": "6,159,725.40",
+    "Pine Inventory": "11,185,254.31",
+    "Cedar Inventory": "1,499,766.14",
+    "Aspen Inventory": "4,181,510.22"
+  },
+  {
+    "Time": "2050-2054",
+    "Spruce-Fir Inventory": "18,165,292.95",
+    "Hardwood Inventory": "43,170,119.70",
+    "Other Softwood Inventory": "6,355,705.89",
+    "Pine Inventory": "10,274,213.10",
+    "Cedar Inventory": "1,411,258.65",
+    "Aspen Inventory": "4,596,661.36"
+  },
+  {
+    "Time": "2055-2059",
+    "Spruce-Fir Inventory": "16,491,490.47",
+    "Hardwood Inventory": "43,274,764.14",
+    "Other Softwood Inventory": "6,074,012.07",
+    "Pine Inventory": "9,897,475.36",
+    "Cedar Inventory": "1,329,658.85",
+    "Aspen Inventory": "4,693,521.02"
+  },
+  {
+    "Time": "2060-2064",
+    "Spruce-Fir Inventory": "15,985,435.80",
+    "Hardwood Inventory": "45,924,628.94",
+    "Other Softwood Inventory": "6,567,125.30",
+    "Pine Inventory": "9,393,835.94",
+    "Cedar Inventory": "1,215,801.96",
+    "Aspen Inventory": "4,856,546.59"
+  }
+]
