@@ -753,7 +753,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -69.594223,46.778084 ]
+       "coordinates":  [ -68.426068, 46.631306]
     },
     "properties": {
     "Name":"Seven Islands - Portage",
