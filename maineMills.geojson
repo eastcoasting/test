@@ -632,17 +632,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -68.4328788,46.6314168 ]
-    },
-    "properties": {
-    "Name":"ReEnergy Ashland - Ashland",
-    "Type":"Biomass Power Generator"
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -67.8459176,46.7725475 ]
     },
     "properties": {
