@@ -25,7 +25,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -68.898591,44.57381 ]
+       "coordinates":  [ -68.806673, 44.575076,  ]
     },
     "properties": {
     "Port":"Bucksport"
