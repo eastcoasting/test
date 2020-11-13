@@ -15,7 +15,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -68.805445,44.452685 ]
+       "coordinates":  [ -68.899869, 44.453607 ]
     },
     "properties": {
     "Port":"Searsport"
