@@ -1,5 +1,5 @@
 {
-            id: "satellite",
-            source: {"type": "raster",  "url": "mapbox://mapbox.satellite", "tileSize": 256},
-            type: "raster",
-        }
+            "id": "satellite",
+            "source": {"type": "raster",  "url": "mapbox://mapbox.satellite", "tileSize": 256},
+            "type": "raster"
+}
