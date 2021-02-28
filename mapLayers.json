@@ -1,5 +1,5 @@
 {
-            "id": "satellite",
+            "id": "test_planet",
             "source": {"type": "raster",  "tiles": "https://tiles.planet.com/basemaps/v1/planet-tiles/planet_medres_normalized_analytic_2015-12_2016-05_mosaic/gmap/{z}/{x}/{y}.png?api_key=ed2257e4751540899ccc16a49e54c857", "tileSize": 256},
             "type": "raster"
 }
