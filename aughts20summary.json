@@ -1,6 +1,9 @@
 [
-  {
-    "ECL": 5,
+{
+  "ECL":  191,
+  "data": {
+
+    "Year": 2010,
     "crop": 477.137739,
     "grass": 211.4199021,
     "native forest": 2963.775218,
@@ -11,7 +14,7 @@
     "water": 106.0394551
   },
   {
-    "ECL": 12,
+    "Year": 2020,
     "crop": 82.57449784,
     "grass": 582.3111433,
     "native forest": 833.6129998,
@@ -20,258 +23,32 @@
     "scrub": 5065.190618,
     "urban": 57.89734344,
     "water": 1578.695502
-  },
-  {
-    "ECL": 16,
-    "crop": 675.0132925,
-    "grass": 1057.881117,
-    "native forest": 1444.559033,
-    "planation": "",
-    "plantation": 4427.655354,
-    "scrub": 2862.607491,
-    "urban": 5.125151912,
-    "water": 382.8915535
-  },
-  {
-    "ECL": 32,
-    "crop": 323.3930147,
-    "grass": "",
-    "native forest": 192.3860559,
-    "planation": "",
-    "plantation": 884.7974508,
-    "scrub": 8155.29852,
-    "urban": "",
-    "water": ""
-  },
-  {
-    "ECL": 47,
-    "crop": 668.6127357,
-    "grass": 2012.665568,
-    "native forest": 1976.12435,
-    "planation": "",
-    "plantation": "",
-    "scrub": 8973.732872,
-    "urban": 51.95330008,
-    "water": 188.0575263
-  },
-  {
-    "ECL": 48,
-    "crop": 278.6907292,
-    "grass": 924.1485938,
-    "native forest": 91.53,
-    "planation": "",
-    "plantation": "",
-    "scrub": 13506.84524,
-    "urban": "",
-    "water": ""
-  },
-  {
-    "ECL": 90,
-    "crop": 852.5017698,
-    "grass": "",
-    "native forest": 1029.095563,
-    "planation": "",
-    "plantation": 3086.596378,
-    "scrub": 4784.162455,
-    "urban": "",
-    "water": ""
-  },
-  {
-    "ECL": 91,
-    "crop": 2432.673022,
-    "grass": 4.137802515,
-    "native forest": 206.5126826,
-    "planation": "",
-    "plantation": "",
-    "scrub": 5717.691831,
-    "urban": 7.865441199,
-    "water": ""
-  },
-  {
-    "ECL": 123,
-    "crop": 1127.81263,
-    "grass": "",
-    "native forest": 398.1045424,
-    "planation": 19.18865126,
-    "plantation": 7480.559409,
-    "scrub": 926.5293681,
-    "urban": "",
-    "water": ""
-  },
-  {
-    "ECL": 133,
-    "crop": 5748.680285,
-    "grass": 1272.524762,
-    "native forest": 872.7258218,
-    "planation": "",
-    "plantation": "",
-    "scrub": 674.2292788,
-    "urban": "",
-    "water": ""
-  },
-  {
-    "ECL": 151,
-    "crop": 1285.564234,
-    "grass": "",
-    "native forest": 274.576356,
-    "planation": "",
-    "plantation": "",
-    "scrub": 7679.97505,
-    "urban": "",
-    "water": ""
-  },
-  {
-    "ECL": 152,
-    "crop": 1656.048417,
-    "grass": "",
-    "native forest": 422.4219818,
-    "planation": "",
-    "plantation": "",
-    "scrub": 6988.780066,
-    "urban": "",
-    "water": ""
-  },
-  {
-    "ECL": 155,
-    "crop": 3197.577677,
-    "grass": "",
-    "native forest": 777.7661064,
-    "planation": "",
-    "plantation": 71.98182911,
-    "scrub": 2948.853261,
-    "urban": "",
-    "water": ""
-  },
-  {
-    "ECL": 157,
-    "crop": "",
-    "grass": 1528.444229,
-    "native forest": 3080.294972,
-    "planation": "",
-    "plantation": "",
-    "scrub": 7108.456827,
-    "urban": "",
-    "water": ""
-  },
-  {
-    "ECL": 158,
-    "crop": "",
-    "grass": 99.95186485,
-    "native forest": "",
-    "planation": "",
-    "plantation": "",
-    "scrub": 9606.057986,
-    "urban": "",
-    "water": ""
-  },
-  {
-    "ECL": 197,
-    "crop": 97.19310801,
-    "grass": 243.8647877,
-    "native forest": 3148.220321,
-    "planation": "",
-    "plantation": 3331.358062,
-    "scrub": 4474.015619,
-    "urban": "",
-    "water": 281.2843992
-  },
-  {
-    "ECL": 198,
-    "crop": 1.230683353,
-    "grass": 566.0093662,
-    "native forest": 3163.937407,
-    "planation": "",
-    "plantation": 3079.31625,
-    "scrub": 4421.657399,
-    "urban": "",
-    "water": 0.713545732
-  },
-  {
-    "ECL": 199,
-    "crop": 1397.08388,
-    "grass": 447.3265111,
-    "native forest": 2019.804356,
-    "planation": "",
-    "plantation": 2967.273787,
-    "scrub": 3895.403757,
-    "urban": "",
-    "water": ""
-  },
-  {
-    "ECL": 200,
-    "crop": 279.9820206,
-    "grass": 385.0876207,
-    "native forest": 2164.155584,
-    "planation": "",
-    "plantation": 5261.689156,
-    "scrub": 2814.547727,
-    "urban": "",
-    "water": ""
-  },
-  {
-    "ECL": 274,
-    "crop": 1551.889652,
-    "grass": 67.38925291,
-    "native forest": 334.5131305,
-    "planation": "",
-    "plantation": 3376.961143,
-    "scrub": 106.8089281,
-    "urban": "",
-    "water": ""
-  },
-  {
-    "ECL": 286,
-    "crop": 480.941119,
-    "grass": "",
-    "native forest": 1399.896691,
-    "planation": "",
-    "plantation": 4176.221909,
-    "scrub": 1972.623651,
-    "urban": 73.18525734,
-    "water": ""
-  },
-  {
-    "ECL": 287,
-    "crop": 31.8643032,
-    "grass": 0.00006345,
-    "native forest": 324.6470938,
-    "planation": "",
-    "plantation": 7087.585125,
-    "scrub": 256.5605314,
-    "urban": 18.13176002,
-    "water": ""
-  },
-  {
-    "ECL": 303,
-    "crop": 1387.748051,
-    "grass": 195.8509077,
-    "native forest": 304.0096623,
-    "planation": "",
-    "plantation": 59.08314079,
-    "scrub": 6665.66445,
-    "urban": "",
-    "water": 72.74413953
-  },
-  {
-    "ECL": 308,
-    "crop": 38.16465312,
-    "grass": "",
-    "native forest": 215.4708616,
-    "planation": "",
-    "plantation": 10205.07307,
-    "scrub": 13.41179646,
-    "urban": 33.35293972,
-    "water": 98.82062127
-  },
-  {
-    "ECL": 310,
-    "crop": 1.999944229,
-    "grass": 1211.424089,
-    "native forest": 646.6345086,
-    "planation": "",
-    "plantation": 7022.764011,
-    "scrub": 126.858486,
-    "urban": "",
-    "water": 36.47305966
   }
+},
+{
+  "ECL":  200,
+  "data": {
+
+    "Year": 2010,
+    "crop": 477.137739,
+    "grass": 211.4199021,
+    "native forest": 2963.775218,
+    "planation": "",
+    "plantation": 4722.968076,
+    "scrub": 173.215045,
+    "urban": 31.1235043,
+    "water": 106.0394551
+  },
+  {
+    "Year": 2020,
+    "crop": 82.57449784,
+    "grass": 582.3111433,
+    "native forest": 833.6129998,
+    "planation": "",
+    "plantation": 788.1753903,
+    "scrub": 5065.190618,
+    "urban": 57.89734344,
+    "water": 1578.695502
+  }
+}
 ]
