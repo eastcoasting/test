@@ -5,7 +5,7 @@
       {
         "crop": 477.13773899999995,
         "grass": 211.41990209999997,
-        "native_forest": 2963.7752179999998,
+        "native forest": 2963.7752179999998,
         "plantation": 4722.968076,
         "scrub": 173.215045,
         "urban": 31.1235043,
@@ -15,7 +15,7 @@
       {
         "crop": 125.21328059999999,
         "grass": 0,
-        "native_forest": 8424.943018,
+        "native forest": 8424.943018,
         "plantation": 0,
         "scrub": 13.68669919,
         "urban": 0,
@@ -25,7 +25,7 @@
       {
         "crop": 510.98427580000003,
         "grass": 597.6171760999999,
-        "native_forest": 5739.23164,
+        "native forest": 5739.23164,
         "plantation": 1655.512083,
         "scrub": 28.41089974,
         "urban": 31.12350362,
@@ -35,7 +35,7 @@
       {
         "crop": 477.1377379,
         "grass": 211.41990209999997,
-        "native_forest": 2963.7752179999998,
+        "native forest": 2963.7752179999998,
         "plantation": 4722.968075,
         "scrub": 173.21504480000002,
         "urban": 31.1235043,
@@ -50,7 +50,7 @@
       {
         "crop": 82.57449784,
         "grass": 582.3111432999999,
-        "native_forest": 833.6129998,
+        "native forest": 833.6129998,
         "plantation": 788.1753903,
         "scrub": 5065.190618,
         "urban": 57.89734344,
@@ -60,7 +60,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 582.7041653,
+        "native forest": 582.7041653,
         "plantation": 0,
         "scrub": 8395.332895,
         "urban": 0,
@@ -70,7 +70,7 @@
       {
         "crop": 0,
         "grass": 801.2180804999999,
-        "native_forest": 582.6465931,
+        "native forest": 582.6465931,
         "plantation": 444.61744389999996,
         "scrub": 7150.302645000001,
         "urban": 0,
@@ -80,7 +80,7 @@
       {
         "crop": 82.57449784,
         "grass": 841.4068838,
-        "native_forest": 449.8422138,
+        "native forest": 449.8422138,
         "plantation": 818.4169308999999,
         "scrub": 6790.050159,
         "urban": 0,
@@ -95,7 +95,7 @@
       {
         "crop": 675.0132925,
         "grass": 1057.881117,
-        "native_forest": 1444.559033,
+        "native forest": 1444.559033,
         "plantation": 4427.6553539999995,
         "scrub": 2862.607491,
         "urban": 5.125151912,
@@ -105,7 +105,7 @@
       {
         "crop": 285.1501374,
         "grass": 0,
-        "native_forest": 6469.020675,
+        "native forest": 6469.020675,
         "plantation": 0,
         "scrub": 4045.649666,
         "urban": 0,
@@ -115,7 +115,7 @@
       {
         "crop": 690.2390197000001,
         "grass": 925.3046663999999,
-        "native_forest": 4241.578348,
+        "native forest": 4241.578348,
         "plantation": 1909.1168949999999,
         "scrub": 3038.045771,
         "urban": 5.125151912,
@@ -125,7 +125,7 @@
       {
         "crop": 717.0784761,
         "grass": 1066.719912,
-        "native_forest": 1261.900786,
+        "native forest": 1261.900786,
         "plantation": 4692.458847999999,
         "scrub": 3051.271711,
         "urban": 5.125151912,
@@ -140,7 +140,7 @@
       {
         "crop": 323.3930147,
         "grass": 0,
-        "native_forest": 192.3860559,
+        "native forest": 192.3860559,
         "plantation": 884.7974508,
         "scrub": 8155.29852,
         "urban": 0,
@@ -150,7 +150,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 172.1494611,
+        "native forest": 172.1494611,
         "plantation": 0,
         "scrub": 9383.725612,
         "urban": 0,
@@ -160,7 +160,7 @@
       {
         "crop": 85.56829948,
         "grass": 0,
-        "native_forest": 172.1494612,
+        "native forest": 172.1494612,
         "plantation": 0,
         "scrub": 9298.157319,
         "urban": 0,
@@ -170,7 +170,7 @@
       {
         "crop": 111.31139740000002,
         "grass": 0,
-        "native_forest": 192.4894612,
+        "native forest": 192.4894612,
         "plantation": 221.44891140000001,
         "scrub": 9030.625289,
         "urban": 0,
@@ -185,7 +185,7 @@
       {
         "crop": 668.6127357,
         "grass": 2012.665568,
-        "native_forest": 1976.12435,
+        "native forest": 1976.12435,
         "plantation": 0,
         "scrub": 8973.732872,
         "urban": 51.95330008,
@@ -195,7 +195,7 @@
       {
         "crop": 10.35,
         "grass": 0,
-        "native_forest": 1527.624191,
+        "native forest": 1527.624191,
         "plantation": 0,
         "scrub": 12332.09648,
         "urban": 0,
@@ -205,7 +205,7 @@
       {
         "crop": 33.710973200000005,
         "grass": 958.3892802999999,
-        "native_forest": 1527.624188,
+        "native forest": 1527.624188,
         "plantation": 0,
         "scrub": 11330.8922,
         "urban": 19.58813147,
@@ -215,7 +215,7 @@
       {
         "crop": 668.6127357,
         "grass": 2012.665568,
-        "native_forest": 1976.12435,
+        "native forest": 1976.12435,
         "plantation": 0,
         "scrub": 9161.694595,
         "urban": 51.95330008,
@@ -230,7 +230,7 @@
       {
         "crop": 278.69072919999996,
         "grass": 924.1485938,
-        "native_forest": 91.53,
+        "native forest": 91.53,
         "plantation": 0,
         "scrub": 13506.84524,
         "urban": 0,
@@ -240,7 +240,7 @@
       {
         "crop": 250.99385130000002,
         "grass": 125.9884736,
-        "native_forest": 57.69,
+        "native forest": 57.69,
         "plantation": 0,
         "scrub": 14366.19719,
         "urban": 0,
@@ -250,7 +250,7 @@
       {
         "crop": 250.99385130000002,
         "grass": 125.9884749,
-        "native_forest": 57.69,
+        "native forest": 57.69,
         "plantation": 735.8740781,
         "scrub": 13630.56331,
         "urban": 0,
@@ -260,7 +260,7 @@
       {
         "crop": 273.6161494,
         "grass": 193.3490955,
-        "native_forest": 91.53,
+        "native forest": 91.53,
         "plantation": 735.8740781,
         "scrub": 13506.84524,
         "urban": 0,
@@ -275,7 +275,7 @@
       {
         "crop": 852.5017697999999,
         "grass": 0,
-        "native_forest": 1029.095563,
+        "native forest": 1029.095563,
         "plantation": 3086.596378,
         "scrub": 4784.162455,
         "urban": 0,
@@ -285,7 +285,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 847.7310769,
+        "native forest": 847.7310769,
         "plantation": 0,
         "scrub": 8879.237421,
         "urban": 0,
@@ -295,7 +295,7 @@
       {
         "crop": 218.72536459999998,
         "grass": 30.95745418,
-        "native_forest": 847.731083,
+        "native forest": 847.731083,
         "plantation": 1198.521508,
         "scrub": 7437.329011,
         "urban": 0,
@@ -305,7 +305,7 @@
       {
         "crop": 446.7988298,
         "grass": 0,
-        "native_forest": 1029.095563,
+        "native forest": 1029.095563,
         "plantation": 2700.678146,
         "scrub": 5572.142465,
         "urban": 0,
@@ -320,7 +320,7 @@
       {
         "crop": 2432.673022,
         "grass": 4.137802515,
-        "native_forest": 206.51268259999998,
+        "native forest": 206.51268259999998,
         "plantation": 0,
         "scrub": 5717.691831,
         "urban": 7.865441199,
@@ -330,7 +330,7 @@
       {
         "crop": 0,
         "grass": 316.8282856,
-        "native_forest": 218.58316820000002,
+        "native forest": 218.58316820000002,
         "plantation": 0,
         "scrub": 7822.728991,
         "urban": 0,
@@ -340,7 +340,7 @@
       {
         "crop": 764.8034737,
         "grass": 94.52149554,
-        "native_forest": 218.58315380000002,
+        "native forest": 218.58315380000002,
         "plantation": 0,
         "scrub": 7278.469911,
         "urban": 1.8632313059999999,
@@ -350,7 +350,7 @@
       {
         "crop": 1594.735019,
         "grass": 820.7827110000001,
-        "native_forest": 206.51268259999998,
+        "native forest": 206.51268259999998,
         "plantation": 0,
         "scrub": 5738.735964,
         "urban": 7.865441199,
@@ -365,7 +365,7 @@
       {
         "crop": 1127.8126300000001,
         "grass": 0,
-        "native_forest": 398.10454239999996,
+        "native forest": 398.10454239999996,
         "plantation": 7499.748059999999,
         "scrub": 926.5293680999999,
         "urban": 0,
@@ -375,7 +375,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 234.01940699999997,
+        "native forest": 234.01940699999997,
         "plantation": 0,
         "scrub": 9698.437409,
         "urban": 0,
@@ -385,7 +385,7 @@
       {
         "crop": 65.6175009,
         "grass": 70.03442874,
-        "native_forest": 218.6920798,
+        "native forest": 218.6920798,
         "plantation": 5842.496461,
         "scrub": 3742.7561729999998,
         "urban": 0,
@@ -395,7 +395,7 @@
       {
         "crop": 252.2833955,
         "grass": 0,
-        "native_forest": 373.5502773,
+        "native forest": 373.5502773,
         "plantation": 7391.933745,
         "scrub": 1932.35886,
         "urban": 0,
@@ -410,7 +410,7 @@
       {
         "crop": 5748.680285,
         "grass": 1272.524762,
-        "native_forest": 872.7258218000001,
+        "native forest": 872.7258218000001,
         "plantation": 0,
         "scrub": 674.2292788,
         "urban": 0,
@@ -420,7 +420,7 @@
       {
         "crop": 43.02919752,
         "grass": 1.3218816,
-        "native_forest": 870.2058061,
+        "native forest": 870.2058061,
         "plantation": 0,
         "scrub": 7649.336456,
         "urban": 0,
@@ -430,7 +430,7 @@
       {
         "crop": 43.02919752,
         "grass": 22.51400255,
-        "native_forest": 870.2058218000001,
+        "native forest": 870.2058218000001,
         "plantation": 0,
         "scrub": 7628.144411,
         "urban": 0,
@@ -440,7 +440,7 @@
       {
         "crop": 5566.941726,
         "grass": 43.52133051,
-        "native_forest": 872.7258195000001,
+        "native forest": 872.7258195000001,
         "plantation": 0,
         "scrub": 2083.705873,
         "urban": 0,
@@ -455,7 +455,7 @@
       {
         "crop": 1285.564234,
         "grass": 0,
-        "native_forest": 274.57635600000003,
+        "native forest": 274.57635600000003,
         "plantation": 0,
         "scrub": 7679.97505,
         "urban": 0,
@@ -465,7 +465,7 @@
       {
         "crop": 0,
         "grass": 693.6427553999999,
-        "native_forest": 274.57635530000005,
+        "native forest": 274.57635530000005,
         "plantation": 0,
         "scrub": 8264.601887,
         "urban": 0,
@@ -475,7 +475,7 @@
       {
         "crop": 873.9422868999999,
         "grass": 152.91,
-        "native_forest": 274.5763497,
+        "native forest": 274.5763497,
         "plantation": 0,
         "scrub": 7931.457945,
         "urban": 0,
@@ -485,7 +485,7 @@
       {
         "crop": 1216.759308,
         "grass": 0,
-        "native_forest": 274.5763497,
+        "native forest": 274.5763497,
         "plantation": 0,
         "scrub": 7745.260090999999,
         "urban": 0,
@@ -500,7 +500,7 @@
       {
         "crop": 1656.048417,
         "grass": 0,
-        "native_forest": 422.42198179999997,
+        "native forest": 422.42198179999997,
         "plantation": 0,
         "scrub": 6988.780065999999,
         "urban": 0,
@@ -510,7 +510,7 @@
       {
         "crop": 0,
         "grass": 450.2055926,
-        "native_forest": 324.8571962,
+        "native forest": 324.8571962,
         "plantation": 0,
         "scrub": 8291.392926999999,
         "urban": 0,
@@ -520,7 +520,7 @@
       {
         "crop": 152.0714591,
         "grass": 304.9427725,
-        "native_forest": 324.8571941,
+        "native forest": 324.8571941,
         "plantation": 0,
         "scrub": 8284.605166,
         "urban": 0,
@@ -530,7 +530,7 @@
       {
         "crop": 1350.066312,
         "grass": 305.9821174,
-        "native_forest": 422.42198179999997,
+        "native forest": 422.42198179999997,
         "plantation": 0,
         "scrub": 6988.780127,
         "urban": 0,
@@ -545,7 +545,7 @@
       {
         "crop": 3197.5776769999998,
         "grass": 0,
-        "native_forest": 777.7661063999999,
+        "native forest": 777.7661063999999,
         "plantation": 71.98182911,
         "scrub": 2948.8532609999997,
         "urban": 0,
@@ -555,7 +555,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 700.2903079,
+        "native forest": 700.2903079,
         "plantation": 0,
         "scrub": 6282.926031,
         "urban": 0,
@@ -565,7 +565,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 700.2903014,
+        "native forest": 700.2903014,
         "plantation": 71.98182911,
         "scrub": 6212.641831,
         "urban": 0,
@@ -575,7 +575,7 @@
       {
         "crop": 1214.6794380000001,
         "grass": 0,
-        "native_forest": 838.1268022999999,
+        "native forest": 838.1268022999999,
         "plantation": 71.98182911,
         "scrub": 4869.229293,
         "urban": 0,
@@ -590,7 +590,7 @@
       {
         "crop": 0,
         "grass": 1528.444229,
-        "native_forest": 3080.2949719999997,
+        "native forest": 3080.2949719999997,
         "plantation": 0,
         "scrub": 7108.456827,
         "urban": 0,
@@ -600,7 +600,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 3189.9561120000003,
+        "native forest": 3189.9561120000003,
         "plantation": 0,
         "scrub": 8527.239919,
         "urban": 0,
@@ -610,7 +610,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 3189.95611,
+        "native forest": 3189.95611,
         "plantation": 0,
         "scrub": 8527.239861,
         "urban": 0,
@@ -620,7 +620,7 @@
       {
         "crop": 0,
         "grass": 1179.316689,
-        "native_forest": 3080.294939,
+        "native forest": 3080.294939,
         "plantation": 0,
         "scrub": 7457.584341,
         "urban": 0,
@@ -635,7 +635,7 @@
       {
         "crop": 0,
         "grass": 99.95186485,
-        "native_forest": 0,
+        "native forest": 0,
         "plantation": 0,
         "scrub": 9606.057986,
         "urban": 0,
@@ -645,7 +645,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 0,
+        "native forest": 0,
         "plantation": 0,
         "scrub": 9706.0098,
         "urban": 0,
@@ -655,7 +655,7 @@
       {
         "crop": 0,
         "grass": 99.95186485,
-        "native_forest": 0,
+        "native forest": 0,
         "plantation": 0,
         "scrub": 9606.057986,
         "urban": 0,
@@ -665,7 +665,7 @@
       {
         "crop": 0,
         "grass": 99.95186485,
-        "native_forest": 0,
+        "native forest": 0,
         "plantation": 0,
         "scrub": 9606.057986,
         "urban": 0,
@@ -680,7 +680,7 @@
       {
         "crop": 97.19310801,
         "grass": 243.8647877,
-        "native_forest": 3148.2203210000002,
+        "native forest": 3148.2203210000002,
         "plantation": 3331.3580620000002,
         "scrub": 4474.015619,
         "urban": 0,
@@ -690,7 +690,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 4822.684579,
+        "native forest": 4822.684579,
         "plantation": 0,
         "scrub": 6741.269065,
         "urban": 0,
@@ -700,7 +700,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 4822.684618,
+        "native forest": 4822.684618,
         "plantation": 0.00006840000000000001,
         "scrub": 6742.271632999999,
         "urban": 0,
@@ -710,7 +710,7 @@
       {
         "crop": 100.39409599999999,
         "grass": 243.8647835,
-        "native_forest": 3241.9389109999997,
+        "native forest": 3241.9389109999997,
         "plantation": 3249.270516,
         "scrub": 4734.885141,
         "urban": 0,
@@ -725,7 +725,7 @@
       {
         "crop": 1.2306833529999999,
         "grass": 566.0093662,
-        "native_forest": 3163.937407,
+        "native forest": 3163.937407,
         "plantation": 3079.31625,
         "scrub": 4421.657399000001,
         "urban": 0,
@@ -735,7 +735,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 4758.932347999999,
+        "native forest": 4758.932347999999,
         "plantation": 0,
         "scrub": 6460.374559000001,
         "urban": 0,
@@ -745,7 +745,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 4758.932347999999,
+        "native forest": 4758.932347999999,
         "plantation": 0,
         "scrub": 6460.319651,
         "urban": 0,
@@ -755,7 +755,7 @@
       {
         "crop": 0,
         "grass": 565.4424303,
-        "native_forest": 2968.758199,
+        "native forest": 2968.758199,
         "plantation": 2996.239293,
         "scrub": 4741.092071,
         "urban": 0,
@@ -770,7 +770,7 @@
       {
         "crop": 1397.0838800000001,
         "grass": 447.32651110000006,
-        "native_forest": 2019.8043559999999,
+        "native forest": 2019.8043559999999,
         "plantation": 2967.273787,
         "scrub": 3895.403757,
         "urban": 0,
@@ -780,7 +780,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 3751.596707,
+        "native forest": 3751.596707,
         "plantation": 0,
         "scrub": 6948.875,
         "urban": 0,
@@ -790,7 +790,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 3751.781906,
+        "native forest": 3751.781906,
         "plantation": 0,
         "scrub": 6947.495969,
         "urban": 0,
@@ -800,7 +800,7 @@
       {
         "crop": 157.7226455,
         "grass": 0,
-        "native_forest": 3165.3529,
+        "native forest": 3165.3529,
         "plantation": 2776.276502,
         "scrub": 4612.414677000001,
         "urban": 0,
@@ -815,7 +815,7 @@
       {
         "crop": 279.9820206,
         "grass": 385.0876207,
-        "native_forest": 2164.155584,
+        "native forest": 2164.155584,
         "plantation": 5261.689156,
         "scrub": 2814.547727,
         "urban": 0,
@@ -825,7 +825,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 6001.863412,
+        "native forest": 6001.863412,
         "plantation": 0,
         "scrub": 4887.449753,
         "urban": 0,
@@ -835,7 +835,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 6001.799558,
+        "native forest": 6001.799558,
         "plantation": 0,
         "scrub": 4887.4438789999995,
         "urban": 0,
@@ -845,7 +845,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 2354.2673170000003,
+        "native forest": 2354.2673170000003,
         "plantation": 5479.2717729999995,
         "scrub": 3328.43542,
         "urban": 0,
@@ -860,7 +860,7 @@
       {
         "crop": 1551.8896519999998,
         "grass": 67.38925291,
-        "native_forest": 334.5131305,
+        "native forest": 334.5131305,
         "plantation": 3376.961143,
         "scrub": 106.8089281,
         "urban": 0,
@@ -870,7 +870,7 @@
       {
         "crop": 35.74331144,
         "grass": 0,
-        "native_forest": 5270.696774,
+        "native forest": 5270.696774,
         "plantation": 0,
         "scrub": 129.5606416,
         "urban": 0,
@@ -880,7 +880,7 @@
       {
         "crop": 35.74331191,
         "grass": 51.822450599999996,
-        "native_forest": 5270.696789,
+        "native forest": 5270.696789,
         "plantation": 0,
         "scrub": 77.73819043,
         "urban": 0,
@@ -890,7 +890,7 @@
       {
         "crop": 517.050614,
         "grass": 605.454629,
-        "native_forest": 844.3013647,
+        "native forest": 844.3013647,
         "plantation": 2960.2755190000003,
         "scrub": 510.32518389999996,
         "urban": 0,
@@ -905,7 +905,7 @@
       {
         "crop": 480.941119,
         "grass": 0,
-        "native_forest": 1399.896691,
+        "native forest": 1399.896691,
         "plantation": 4176.221909000001,
         "scrub": 1972.623651,
         "urban": 73.18525734,
@@ -915,7 +915,7 @@
       {
         "crop": 5.625329227999999,
         "grass": 0,
-        "native_forest": 5894.058847,
+        "native forest": 5894.058847,
         "plantation": 0,
         "scrub": 2201.619686,
         "urban": 0,
@@ -925,7 +925,7 @@
       {
         "crop": 5.625329033,
         "grass": 129.7962471,
-        "native_forest": 4417.984944,
+        "native forest": 4417.984944,
         "plantation": 1398.701775,
         "scrub": 2149.195554,
         "urban": 0,
@@ -935,7 +935,7 @@
       {
         "crop": 475.19579410000006,
         "grass": 0,
-        "native_forest": 1403.7682949999999,
+        "native forest": 1403.7682949999999,
         "plantation": 4174.406018,
         "scrub": 1976.3132600000001,
         "urban": 73.18525734,
@@ -950,7 +950,7 @@
       {
         "crop": 31.864303200000002,
         "grass": 0.0000635,
-        "native_forest": 324.6470938,
+        "native forest": 324.6470938,
         "plantation": 7087.585125,
         "scrub": 256.5605314,
         "urban": 18.13176002,
@@ -960,7 +960,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 7184.456918000001,
+        "native forest": 7184.456918000001,
         "plantation": 0,
         "scrub": 534.3319501,
         "urban": 0,
@@ -970,7 +970,7 @@
       {
         "crop": 0,
         "grass": 18.00030542,
-        "native_forest": 5284.3346,
+        "native forest": 5284.3346,
         "plantation": 2095.135155,
         "scrub": 321.31885710000006,
         "urban": 0,
@@ -980,7 +980,7 @@
       {
         "crop": 25.63353799,
         "grass": 0,
-        "native_forest": 327.69012030000005,
+        "native forest": 327.69012030000005,
         "plantation": 7087.585123999999,
         "scrub": 259.7483325,
         "urban": 18.13176002,
@@ -995,7 +995,7 @@
       {
         "crop": 1387.748051,
         "grass": 195.8509077,
-        "native_forest": 304.0096623,
+        "native forest": 304.0096623,
         "plantation": 59.08314079,
         "scrub": 6665.66445,
         "urban": 0,
@@ -1005,7 +1005,7 @@
       {
         "crop": 163.7501239,
         "grass": 900.3519077999999,
-        "native_forest": 299.1496631,
+        "native forest": 299.1496631,
         "plantation": 0,
         "scrub": 7242.767917,
         "urban": 0,
@@ -1015,7 +1015,7 @@
       {
         "crop": 38.09797944,
         "grass": 1056.861905,
-        "native_forest": 299.14966769999995,
+        "native forest": 299.14966769999995,
         "plantation": 0,
         "scrub": 7211.9424579999995,
         "urban": 0,
@@ -1025,7 +1025,7 @@
       {
         "crop": 109.1645602,
         "grass": 1313.910124,
-        "native_forest": 304.0096623,
+        "native forest": 304.0096623,
         "plantation": 0,
         "scrub": 6881.070209,
         "urban": 0,
@@ -1040,7 +1040,7 @@
       {
         "crop": 38.16465312,
         "grass": 0,
-        "native_forest": 215.4708616,
+        "native forest": 215.4708616,
         "plantation": 10205.07307,
         "scrub": 13.41179646,
         "urban": 33.35293972,
@@ -1050,7 +1050,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 182.44319019999998,
+        "native forest": 182.44319019999998,
         "plantation": 0,
         "scrub": 10421.850770000001,
         "urban": 0,
@@ -1060,7 +1060,7 @@
       {
         "crop": 0,
         "grass": 0,
-        "native_forest": 182.4431941,
+        "native forest": 182.4431941,
         "plantation": 0,
         "scrub": 10421.85076,
         "urban": 0,
@@ -1070,7 +1070,7 @@
       {
         "crop": 33.34516643,
         "grass": 0,
-        "native_forest": 182.4431941,
+        "native forest": 182.4431941,
         "plantation": 10336.92136,
         "scrub": 18.26395837,
         "urban": 33.35293972,
@@ -1085,7 +1085,7 @@
       {
         "crop": 1.999944229,
         "grass": 1211.424089,
-        "native_forest": 646.6345086,
+        "native forest": 646.6345086,
         "plantation": 7022.764011,
         "scrub": 126.85848600000001,
         "urban": 0,
@@ -1095,7 +1095,7 @@
       {
         "crop": 1.112306755,
         "grass": 0,
-        "native_forest": 635.3219922999999,
+        "native forest": 635.3219922999999,
         "plantation": 0,
         "scrub": 8409.719843,
         "urban": 0,
@@ -1105,7 +1105,7 @@
       {
         "crop": 0,
         "grass": 56.38567832,
-        "native_forest": 636.4342952000001,
+        "native forest": 636.4342952000001,
         "plantation": 4.017126,
         "scrub": 8349.317049,
         "urban": 0,
@@ -1115,7 +1115,7 @@
       {
         "crop": 1.112306755,
         "grass": 196.50152309999999,
-        "native_forest": 646.6345042,
+        "native forest": 646.6345042,
         "plantation": 6102.366879,
         "scrub": 2099.538859,
         "urban": 0,
